@@ -3,6 +3,7 @@ An alert to get Hong Kong Apple Store stock availability on Telegram Channel
 
 # Usage
 Monitor interested Apple's products if they are back stock and available to order in APU. In order to avoid IP getting ban from Apple, proxy is used. To let the process do quickly, threading is applied so each checking won't be blocked by the others.
+
 ![image](https://user-images.githubusercontent.com/75830784/146634554-f5533431-c41d-45ab-ab1b-ee993a5b83ce.png)
 
 
