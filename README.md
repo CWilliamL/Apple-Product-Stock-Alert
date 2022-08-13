@@ -27,4 +27,4 @@ TO STOP THE nohup BACKGROUND PROCESS
 ps -ef | grep botver2
 
 Then you will see the PID
-Use "kill <PID>" to kill the program
+Use "kill {PID}" to kill the program
