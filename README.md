@@ -24,7 +24,9 @@ Prepare: Proxy Pool
 nohup /path/to/python/script.py ARGS < /dev/null > outputfile 2>&1 &
 
 TO STOP THE nohup BACKGROUND PROCESS
+
 ps -ef | grep botver2
 
 Then you will see the PID
+
 Use "kill {PID}" to kill the program
