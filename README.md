@@ -20,4 +20,5 @@ Prepare: Proxy Pool
 8. Copy and paste the chat id to bot.py
 9. RUN!
 
-
+# Run the program on background in Ubuntu
+nohup /path/to/python/script.py ARGS < /dev/null > outputfile 2>&1 &
