@@ -22,6 +22,7 @@ Prepare: Proxy Pool
 
 # Run the program on background in Ubuntu
 nohup /path/to/python/script.py ARGS < /dev/null > outputfile 2>&1 &
+
 nohup command >/dev/null 2>&1   # doesn't create nohup.out
 
 TO STOP THE nohup BACKGROUND PROCESS
